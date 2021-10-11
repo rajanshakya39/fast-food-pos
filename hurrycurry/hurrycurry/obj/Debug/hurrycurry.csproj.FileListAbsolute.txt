@@ -1,0 +1,18 @@
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\bin\Debug\hurrycurry.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\bin\Debug\hurrycurry.exe
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\bin\Debug\hurrycurry.pdb
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\obj\Debug\hurrycurry.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\obj\Debug\hurrycurry.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\obj\Debug\hurrycurry.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\obj\Debug\hurrycurry.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\obj\Debug\hurrycurry.exe
+c:\users\hp\documents\visual studio 2013\Projects\hurrycurry\hurrycurry\obj\Debug\hurrycurry.pdb
+E:\software\hurrycurry\hurrycurry\bin\Debug\hurrycurry.exe.config
+E:\software\hurrycurry\hurrycurry\obj\Debug\hurrycurry.exe
+E:\software\hurrycurry\hurrycurry\obj\Debug\hurrycurry.pdb
+E:\software\hurrycurry\hurrycurry\bin\Debug\hurrycurry.exe
+E:\software\hurrycurry\hurrycurry\bin\Debug\hurrycurry.pdb
+E:\software\hurrycurry\hurrycurry\obj\Debug\hurrycurry.csprojResolveAssemblyReference.cache
+E:\software\hurrycurry\hurrycurry\obj\Debug\hurrycurry.Form1.resources
+E:\software\hurrycurry\hurrycurry\obj\Debug\hurrycurry.Properties.Resources.resources
+E:\software\hurrycurry\hurrycurry\obj\Debug\hurrycurry.csproj.GenerateResource.Cache
